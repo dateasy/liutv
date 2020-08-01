@@ -3,27 +3,15 @@
 #EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD,越南ANTVHD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="Undefined",CCTV 1,CN | CCTV 1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="Undefined",CCTV-13 (Opt-2)
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-13新闻
-http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Music;Undefined",CCTV-15,CCTV中国中央电视台-15 音乐
-http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
 http://live.cgtn.com/500/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="Undefined",CGTN 1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="Undefined",CGTN Español
-http://livees.cgtn.com/500e/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://parco-zh.github.io/demo/DIYI.png" group-title="Undefined",China Business Network (Opt-3),第一财经
 https://w1live.livecdn.yicai.com/live/cbn.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/7flJQne.png" group-title="Undefined",China CTV 1
-http://stream.chinactv.com/ctv1/sd/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Hope Channel
 http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Undefined",NewTV古装剧场
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="Undefined",XMTV 1,厦视一套
 http://cstvpull.live.wscdns.com/live/xiamen1.flv?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="Undefined",XMTV 2,厦视二套
